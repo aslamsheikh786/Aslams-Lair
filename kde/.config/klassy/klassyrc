@@ -1,0 +1,14 @@
+[Global]
+LookAndFeelSet=Catppuccin-Mocha-Blue
+RefreshedConfig=6.5.git
+
+[Windeco]
+ButtonIconStyle=StyleArk
+ColorizeWindowOutlineWithButton=false
+DrawBorderOnMaximizedWindows=true
+WindowCornerRadius=24
+
+[WindowOutlineStyle]
+WindowOutlineStyleActive=WindowOutlineAccentColor
+WindowOutlineStyleInactive=WindowOutlineAccentColor
+WindowOutlineThickness=2.000000000000001

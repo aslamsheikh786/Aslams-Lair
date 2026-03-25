@@ -1,0 +1,10 @@
+brave-bin
+catppuccin-konsole-colorscheme-mocha-git
+cursor-bin
+klassy-git
+kvantum-theme-catppuccin-git
+kwin-polonium
+kwin-scripts-krohnkite-git
+maliit-keyboard
+tor-browser-bin
+vscodium-bin
