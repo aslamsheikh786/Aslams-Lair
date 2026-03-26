@@ -65,7 +65,9 @@ Aslams-Lair/
 > ⚠️ This installer is password protected.
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/aslamsheikh786/Aslams-Lair/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/aslamsheikh786/Aslams-Lair/main/install.sh -o install.sh
+chmod +x install.sh
+bash install.sh
 ```
 
 The installer will ask for a password, then give you options to install everything at once or pick individual components.
@@ -94,18 +96,6 @@ stow bash kde konsole kvantum themes fonts
 # 5. Refresh font cache
 fc-cache -fv
 ```
-
----
-
-## 💻 Hardware
-
-| Component | Spec |
-|---|---|
-| Host | Lenovo LOQ 15IAX9 |
-| CPU | Intel Core i5-12450HX (12) @ 4.40 GHz |
-| GPU | NVIDIA GeForce RTX 2050 |
-| RAM | 11.39 GiB |
-| Display | 16" 1920x1080 @ 144Hz |
 
 ---
 
